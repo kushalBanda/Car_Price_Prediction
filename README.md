@@ -1,2 +1,2 @@
 # Car_Price_Prediction
-Machine Learning on Car Price Prediction
+Machine Learning Project on Car Price Prediction
